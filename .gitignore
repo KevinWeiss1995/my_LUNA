@@ -1,0 +1,88 @@
+data/
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Test results
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.cache
+*.log
+.hypothesis/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyInstaller
+#  Usually these files are written by a Python script using PyInstaller
+*.manifest
+*.spec
+
+# C extensions
+*.o
+*.obj
+*.dll
+*.dylib
+*.exe
+
+# Unit test / coverage reports
+*.coverage
+.coverage.*
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Profiling data
+.prof
+
+# Logs
+*.log
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Other Python tools
+.pylint.d/
+pylint-report.log
+
